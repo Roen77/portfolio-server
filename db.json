@@ -69,6 +69,54 @@
       "skillList": ["app", "typescript", "react", "react query", "emotion"]
     }
   ],
+  "searchs": [
+    {
+      "id": 1,
+      "title": "Project 01",
+      "sub": "프로젝트",
+      "type": "office",
+      "name": "칠텐 앱",
+      "skillList": ["app", "typescript", "react native", "redux", "redux saga"]
+    },
+    {
+      "id": 2,
+      "title": "Project 02",
+      "sub": "프로젝트",
+      "type": "office",
+      "name": "칠텐 티셔츠 공모전 웹 페이지(web page)",
+      "skillList": ["web", "javascript", "jquery"]
+    },
+    {
+      "id": 3,
+      "title": "Project 03",
+      "sub": "프로젝트",
+      "type": "office",
+      "name": "롸켓 앱",
+      "skillList": [
+        "app",
+        "typescript",
+        "react native",
+        "react query",
+        "emotion"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Project 04",
+      "sub": "프로젝트",
+      "type": "office",
+      "name": "롸켓 어드민 웹 사이트(website)",
+      "skillList": ["web", "typescript", "react", "react query", "emotion"]
+    },
+    {
+      "id": 5,
+      "title": "Project 05",
+      "sub": "프로젝트",
+      "type": "office",
+      "name": "게임원 앱 리뉴얼",
+      "skillList": ["app", "typescript", "react", "react query", "emotion"]
+    }
+  ],
   "searchList": [
     {
       "id": 1,
