@@ -1,0 +1,2968 @@
+{
+  "topMenuList": [
+    {
+      "id": 1,
+      "parentId": "ROOT",
+      "title": "루트메뉴1",
+      "count": 5
+    },
+    {
+      "id": 2,
+      "parentId": "ROOT",
+      "title": "루트메뉴2",
+      "count": 5
+    },
+    {
+      "id": 14,
+      "parentId": 2,
+      "title": "루트메뉴2-의 sub메뉴1",
+      "count": 5
+    },
+    {
+      "id": 15,
+      "parentId": 2,
+      "title": "루트메뉴2-의 sub메뉴2",
+      "count": 5
+    },
+    {
+      "id": 12,
+      "parentId": 1,
+      "title": "루트메뉴1-의 sub메뉴1"
+    },
+    {
+      "id": 13,
+      "parentId": 1,
+      "title": "루트메뉴1-의 sub메뉴1"
+    },
+    {
+      "id": 20,
+      "parentId": 12,
+      "title": "루트메뉴1-sub메뉴1-sub1"
+    },
+    {
+      "id": 21,
+      "parentId": 13,
+      "title": "루트메뉴1-sub메뉴1-sub2"
+    }
+  ],
+  "sideMenuList": [
+    {
+      "id": 1,
+      "parentId": "ROOT",
+      "title": "개발",
+      "count": 5,
+      "isChecked": false
+    },
+    {
+      "id": 2,
+      "parentId": "ROOT",
+      "title": "데이터",
+      "count": 5,
+      "isChecked": false
+    },
+    {
+      "id": 14,
+      "parentId": 2,
+      "title": "데이터 사이언스",
+      "count": 5,
+      "isChecked": false
+    },
+    {
+      "id": 15,
+      "parentId": 2,
+      "title": "데이터 분석",
+      "count": 5,
+      "isChecked": false
+    },
+    {
+      "id": 12,
+      "parentId": 1,
+      "title": "프론트엔드",
+      "isChecked": false
+    },
+    {
+      "id": 13,
+      "parentId": 1,
+      "title": "백엔드",
+      "isChecked": false
+    }
+  ],
+  "lectureList": [
+    {
+      "id": 12,
+      "typeId": 3,
+      "subTypeId": 0,
+      "type": "기타",
+      "title": "기타 1",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "content": "선거운동은 각급 선거관리위원회의 관리하에 법률이 정하는 범위안에서 하되, 균등한 기회가 보장되어야 한다. 모든 국민은 근로의 권리를 가진다. 국가는 사회적·경제적 방법으로 근로자의 고용의 증진과 적정임금의 보장에 노력하여야 하며, 법률이 정하는 바에 의하여 최저임금제를 시행하여야 한다.",
+      "totalCount": [
+        {
+          "typeId": 1,
+          "subTypeId": null,
+          "count": 10
+        },
+        {
+          "typeId": 2,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 3,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 1,
+          "subTypeId": 12,
+          "count": 6
+        },
+        {
+          "subTypeId": 13,
+          "count": 4
+        },
+        {
+          "subTypeId": 15,
+          "count": 2
+        },
+        {
+          "subTypeId": 16,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "typeId": 3,
+      "subTypeId": 0,
+      "type": "기타",
+      "title": "기타 2",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "content": "선거운동은 각급 선거관리위원회의 관리하에 법률이 정하는 범위안에서 하되, 균등한 기회가 보장되어야 한다. 모든 국민은 근로의 권리를 가진다. 국가는 사회적·경제적 방법으로 근로자의 고용의 증진과 적정임금의 보장에 노력하여야 하며, 법률이 정하는 바에 의하여 최저임금제를 시행하여야 한다.",
+      "totalCount": [
+        {
+          "typeId": 1,
+          "subTypeId": null,
+          "count": 10
+        },
+        {
+          "typeId": 2,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 3,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 1,
+          "subTypeId": 12,
+          "count": 6
+        },
+        {
+          "subTypeId": 13,
+          "count": 4
+        },
+        {
+          "subTypeId": 15,
+          "count": 2
+        },
+        {
+          "subTypeId": 16,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "typeId": 3,
+      "subTypeId": 0,
+      "type": "기타",
+      "title": "기타 3",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "content": "선거운동은 각급 선거관리위원회의 관리하에 법률이 정하는 범위안에서 하되, 균등한 기회가 보장되어야 한다. 모든 국민은 근로의 권리를 가진다. 국가는 사회적·경제적 방법으로 근로자의 고용의 증진과 적정임금의 보장에 노력하여야 하며, 법률이 정하는 바에 의하여 최저임금제를 시행하여야 한다.",
+      "totalCount": [
+        {
+          "typeId": 1,
+          "subTypeId": null,
+          "count": 10
+        },
+        {
+          "typeId": 2,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 3,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 1,
+          "subTypeId": 12,
+          "count": 6
+        },
+        {
+          "subTypeId": 13,
+          "count": 4
+        },
+        {
+          "subTypeId": 15,
+          "count": 2
+        },
+        {
+          "subTypeId": 16,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "typeId": 1,
+      "subTypeId": 12,
+      "type": "개발",
+      "subType": "프론트엔드",
+      "title": "프론트 개발1",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "content": "선거운동은 각급 선거관리위원회의 관리하에 법률이 정하는 범위안에서 하되, 균등한 기회가 보장되어야 한다. 모든 국민은 근로의 권리를 가진다. 국가는 사회적·경제적 방법으로 근로자의 고용의 증진과 적정임금의 보장에 노력하여야 하며, 법률이 정하는 바에 의하여 최저임금제를 시행하여야 한다.",
+      "totalCount": [
+        {
+          "typeId": 1,
+          "subTypeId": null,
+          "count": 10
+        },
+        {
+          "typeId": 2,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 3,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 1,
+          "subTypeId": 12,
+          "count": 6
+        },
+        {
+          "subTypeId": 13,
+          "count": 4
+        },
+        {
+          "subTypeId": 15,
+          "count": 2
+        },
+        {
+          "subTypeId": 16,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "typeId": 1,
+      "subTypeId": 12,
+      "type": "개발",
+      "subType": "프론트엔드",
+      "title": "프론트 개발2",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "content": "선거운동은 각급 선거관리위원회의 관리하에 법률이 정하는 범위안에서 하되, 균등한 기회가 보장되어야 한다. 모든 국민은 근로의 권리를 가진다. 국가는 사회적·경제적 방법으로 근로자의 고용의 증진과 적정임금의 보장에 노력하여야 하며, 법률이 정하는 바에 의하여 최저임금제를 시행하여야 한다.",
+      "totalCount": [
+        {
+          "typeId": 1,
+          "subTypeId": null,
+          "count": 10
+        },
+        {
+          "typeId": 2,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 3,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 1,
+          "subTypeId": 12,
+          "count": 6
+        },
+        {
+          "subTypeId": 13,
+          "count": 4
+        },
+        {
+          "subTypeId": 15,
+          "count": 2
+        },
+        {
+          "subTypeId": 16,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "typeId": 1,
+      "subTypeId": 12,
+      "type": "개발",
+      "subType": "프론트엔드",
+      "title": "프론트 개발3",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "content": "선거운동은 각급 선거관리위원회의 관리하에 법률이 정하는 범위안에서 하되, 균등한 기회가 보장되어야 한다. 모든 국민은 근로의 권리를 가진다. 국가는 사회적·경제적 방법으로 근로자의 고용의 증진과 적정임금의 보장에 노력하여야 하며, 법률이 정하는 바에 의하여 최저임금제를 시행하여야 한다.",
+      "totalCount": [
+        {
+          "typeId": 1,
+          "subTypeId": null,
+          "count": 10
+        },
+        {
+          "typeId": 2,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 3,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 1,
+          "subTypeId": 12,
+          "count": 6
+        },
+        {
+          "subTypeId": 13,
+          "count": 4
+        },
+        {
+          "subTypeId": 15,
+          "count": 2
+        },
+        {
+          "subTypeId": 16,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "typeId": 1,
+      "subTypeId": 12,
+      "type": "개발",
+      "subType": "프론트엔드",
+      "title": "프론트 개발4",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "content": "선거운동은 각급 선거관리위원회의 관리하에 법률이 정하는 범위안에서 하되, 균등한 기회가 보장되어야 한다. 모든 국민은 근로의 권리를 가진다. 국가는 사회적·경제적 방법으로 근로자의 고용의 증진과 적정임금의 보장에 노력하여야 하며, 법률이 정하는 바에 의하여 최저임금제를 시행하여야 한다.",
+      "totalCount": [
+        {
+          "typeId": 1,
+          "subTypeId": null,
+          "count": 10
+        },
+        {
+          "typeId": 2,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 3,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 1,
+          "subTypeId": 12,
+          "count": 6
+        },
+        {
+          "subTypeId": 13,
+          "count": 4
+        },
+        {
+          "subTypeId": 15,
+          "count": 2
+        },
+        {
+          "subTypeId": 16,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "typeId": 1,
+      "subTypeId": 12,
+      "type": "개발",
+      "subType": "프론트엔드",
+      "title": "프론트 개발5",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "content": "선거운동은 각급 선거관리위원회의 관리하에 법률이 정하는 범위안에서 하되, 균등한 기회가 보장되어야 한다. 모든 국민은 근로의 권리를 가진다. 국가는 사회적·경제적 방법으로 근로자의 고용의 증진과 적정임금의 보장에 노력하여야 하며, 법률이 정하는 바에 의하여 최저임금제를 시행하여야 한다.",
+      "totalCount": [
+        {
+          "typeId": 1,
+          "subTypeId": null,
+          "count": 10
+        },
+        {
+          "typeId": 2,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 3,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 1,
+          "subTypeId": 12,
+          "count": 6
+        },
+        {
+          "subTypeId": 13,
+          "count": 4
+        },
+        {
+          "subTypeId": 15,
+          "count": 2
+        },
+        {
+          "subTypeId": 16,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "typeId": 1,
+      "subTypeId": 12,
+      "type": "개발",
+      "subType": "프론트엔드",
+      "title": "프론트 개발6",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "content": "선거운동은 각급 선거관리위원회의 관리하에 법률이 정하는 범위안에서 하되, 균등한 기회가 보장되어야 한다. 모든 국민은 근로의 권리를 가진다. 국가는 사회적·경제적 방법으로 근로자의 고용의 증진과 적정임금의 보장에 노력하여야 하며, 법률이 정하는 바에 의하여 최저임금제를 시행하여야 한다.",
+      "totalCount": [
+        {
+          "typeId": 1,
+          "subTypeId": null,
+          "count": 10
+        },
+        {
+          "typeId": 2,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 3,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 1,
+          "subTypeId": 12,
+          "count": 6
+        },
+        {
+          "subTypeId": 13,
+          "count": 4
+        },
+        {
+          "subTypeId": 15,
+          "count": 2
+        },
+        {
+          "subTypeId": 16,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "typeId": 1,
+      "subTypeId": 13,
+      "type": "개발",
+      "subType": "백엔드",
+      "title": "백엔드 개발7",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "content": "선거운동은 각급 선거관리위원회의 관리하에 법률이 정하는 범위안에서 하되, 균등한 기회가 보장되어야 한다. 모든 국민은 근로의 권리를 가진다. 국가는 사회적·경제적 방법으로 근로자의 고용의 증진과 적정임금의 보장에 노력하여야 하며, 법률이 정하는 바에 의하여 최저임금제를 시행하여야 한다.",
+      "totalCount": [
+        {
+          "typeId": 1,
+          "subTypeId": null,
+          "count": 10
+        },
+        {
+          "typeId": 2,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 3,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 1,
+          "subTypeId": 12,
+          "count": 6
+        },
+        {
+          "subTypeId": 13,
+          "count": 4
+        },
+        {
+          "subTypeId": 15,
+          "count": 2
+        },
+        {
+          "subTypeId": 16,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "typeId": 1,
+      "subTypeId": 13,
+      "type": "개발",
+      "subType": "백엔드",
+      "title": "백엔드 개발8",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "content": "선거운동은 각급 선거관리위원회의 관리하에 법률이 정하는 범위안에서 하되, 균등한 기회가 보장되어야 한다. 모든 국민은 근로의 권리를 가진다. 국가는 사회적·경제적 방법으로 근로자의 고용의 증진과 적정임금의 보장에 노력하여야 하며, 법률이 정하는 바에 의하여 최저임금제를 시행하여야 한다.",
+      "totalCount": [
+        {
+          "typeId": 1,
+          "subTypeId": null,
+          "count": 10
+        },
+        {
+          "typeId": 2,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 3,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 1,
+          "subTypeId": 12,
+          "count": 6
+        },
+        {
+          "subTypeId": 13,
+          "count": 4
+        },
+        {
+          "subTypeId": 15,
+          "count": 2
+        },
+        {
+          "subTypeId": 16,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "typeId": 1,
+      "subTypeId": 13,
+      "type": "개발",
+      "subType": "백엔드",
+      "title": "백엔드 개발9",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "content": "선거운동은 각급 선거관리위원회의 관리하에 법률이 정하는 범위안에서 하되, 균등한 기회가 보장되어야 한다. 모든 국민은 근로의 권리를 가진다. 국가는 사회적·경제적 방법으로 근로자의 고용의 증진과 적정임금의 보장에 노력하여야 하며, 법률이 정하는 바에 의하여 최저임금제를 시행하여야 한다.",
+      "totalCount": [
+        {
+          "typeId": 1,
+          "subTypeId": null,
+          "count": 10
+        },
+        {
+          "typeId": 2,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 3,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 1,
+          "subTypeId": 12,
+          "count": 6
+        },
+        {
+          "subTypeId": 13,
+          "count": 4
+        },
+        {
+          "subTypeId": 15,
+          "count": 2
+        },
+        {
+          "subTypeId": 16,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "typeId": 1,
+      "subTypeId": 13,
+      "type": "개발",
+      "subType": "백엔드",
+      "title": "백엔드 개발10",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "content": "선거운동은 각급 선거관리위원회의 관리하에 법률이 정하는 범위안에서 하되, 균등한 기회가 보장되어야 한다. 모든 국민은 근로의 권리를 가진다. 국가는 사회적·경제적 방법으로 근로자의 고용의 증진과 적정임금의 보장에 노력하여야 하며, 법률이 정하는 바에 의하여 최저임금제를 시행하여야 한다.",
+      "totalCount": [
+        {
+          "typeId": 1,
+          "subTypeId": null,
+          "count": 10
+        },
+        {
+          "typeId": 2,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 3,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 1,
+          "subTypeId": 12,
+          "count": 6
+        },
+        {
+          "subTypeId": 13,
+          "count": 4
+        },
+        {
+          "subTypeId": 15,
+          "count": 2
+        },
+        {
+          "subTypeId": 16,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "typeId": 2,
+      "subTypeId": 15,
+      "type": "데이터",
+      "subType": "데이터분석",
+      "title": "데이터 데이터 분석1",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "content": "선거운동은 각급 선거관리위원회의 관리하에 법률이 정하는 범위안에서 하되, 균등한 기회가 보장되어야 한다. 모든 국민은 근로의 권리를 가진다. 국가는 사회적·경제적 방법으로 근로자의 고용의 증진과 적정임금의 보장에 노력하여야 하며, 법률이 정하는 바에 의하여 최저임금제를 시행하여야 한다.",
+      "totalCount": [
+        {
+          "typeId": 1,
+          "subTypeId": null,
+          "count": 10
+        },
+        {
+          "typeId": 2,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 3,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 1,
+          "subTypeId": 12,
+          "count": 6
+        },
+        {
+          "subTypeId": 13,
+          "count": 4
+        },
+        {
+          "subTypeId": 15,
+          "count": 2
+        },
+        {
+          "subTypeId": 16,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "typeId": 2,
+      "subTypeId": 15,
+      "type": "데이터",
+      "subType": "데이터분석",
+      "title": "데이터 데이터 분석2",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "content": "선거운동은 각급 선거관리위원회의 관리하에 법률이 정하는 범위안에서 하되, 균등한 기회가 보장되어야 한다. 모든 국민은 근로의 권리를 가진다. 국가는 사회적·경제적 방법으로 근로자의 고용의 증진과 적정임금의 보장에 노력하여야 하며, 법률이 정하는 바에 의하여 최저임금제를 시행하여야 한다.",
+      "totalCount": [
+        {
+          "typeId": 1,
+          "subTypeId": null,
+          "count": 10
+        },
+        {
+          "typeId": 2,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 3,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 1,
+          "subTypeId": 12,
+          "count": 6
+        },
+        {
+          "subTypeId": 13,
+          "count": 4
+        },
+        {
+          "subTypeId": 15,
+          "count": 2
+        },
+        {
+          "subTypeId": 16,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "typeId": 2,
+      "subTypeId": 14,
+      "type": "데이터",
+      "subType": "데이터 사이언스",
+      "title": "데이터 데이터 사이언스1",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://plus.unsplash.com/premium_photo-1700081739594-0184d99b9ec7?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "content": "선거운동은 각급 선거관리위원회의 관리하에 법률이 정하는 범위안에서 하되, 균등한 기회가 보장되어야 한다. 모든 국민은 근로의 권리를 가진다. 국가는 사회적·경제적 방법으로 근로자의 고용의 증진과 적정임금의 보장에 노력하여야 하며, 법률이 정하는 바에 의하여 최저임금제를 시행하여야 한다.",
+      "totalCount": [
+        {
+          "typeId": 1,
+          "subTypeId": null,
+          "count": 10
+        },
+        {
+          "typeId": 2,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 3,
+          "subTypeId": null,
+          "count": 3
+        },
+        {
+          "typeId": 1,
+          "subTypeId": 12,
+          "count": 6
+        },
+        {
+          "subTypeId": 13,
+          "count": 4
+        },
+        {
+          "subTypeId": 15,
+          "count": 2
+        },
+        {
+          "subTypeId": 16,
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "lectureVideoList": [
+    {
+      "id": 12,
+      "typeId": 3,
+      "subTypeId": 0,
+      "type": "기타",
+      "videoList": [
+        {
+          "chapter": 1,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 2,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 3,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 4,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 5,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 6,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 7,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 8,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 9,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 10,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 11,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 12,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 13,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 14,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 15,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 16,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 17,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 18,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 19,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 20,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 21,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "typeId": 3,
+      "subTypeId": 0,
+      "type": "기타",
+      "videoList": [
+        {
+          "chapter": 1,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 2,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 3,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 4,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 5,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 6,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 7,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 8,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 9,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 10,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 11,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 12,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 13,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 14,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 15,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 16,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 17,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 18,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 19,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 20,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 21,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "typeId": 3,
+      "subTypeId": 0,
+      "type": "기타",
+      "videoList": [
+        {
+          "chapter": 1,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 2,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 3,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 4,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 5,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 6,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 7,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 8,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 9,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 10,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 11,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 12,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 13,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 14,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 15,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 16,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 17,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 18,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 19,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 20,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 21,
+          "title": "It is a long established fact that a reader will be distracted by the readable",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "typeId": 1,
+      "subTypeId": 12,
+      "type": "개발",
+      "subType": "프론트엔드",
+      "videoList": [
+        {
+          "chapter": 1,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 2,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 3,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 4,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 5,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 6,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 7,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 8,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 9,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 10,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 11,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 12,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 13,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 14,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 15,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 16,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 17,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 18,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 19,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 20,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 21,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "typeId": 1,
+      "subTypeId": 12,
+      "type": "개발",
+      "subType": "프론트엔드",
+      "videoList": [
+        {
+          "chapter": 1,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 2,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 3,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 4,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 5,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 6,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 7,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 8,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 9,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 10,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 11,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 12,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 13,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 14,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 15,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 16,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 17,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 18,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 19,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 20,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 21,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "typeId": 1,
+      "subTypeId": 12,
+      "type": "개발",
+      "subType": "프론트엔드",
+      "videoList": [
+        {
+          "chapter": 1,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 2,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 3,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 4,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 5,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 6,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 7,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 8,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 9,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 10,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 11,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 12,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 13,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 14,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 15,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 16,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 17,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 18,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 19,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 20,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 21,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "typeId": 1,
+      "subTypeId": 12,
+      "type": "개발",
+      "subType": "프론트엔드",
+      "videoList": [
+        {
+          "chapter": 1,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 2,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 3,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 4,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 5,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 6,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 7,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 8,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 9,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 10,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 11,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 12,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 13,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 14,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 15,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 16,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 17,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 18,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 19,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 20,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 21,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "typeId": 1,
+      "subTypeId": 12,
+      "type": "개발",
+      "subType": "프론트엔드",
+      "videoList": [
+        {
+          "chapter": 1,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 2,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 3,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 4,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 5,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 6,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 7,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 8,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 9,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 10,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 11,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 12,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 13,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 14,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 15,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 16,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 17,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 18,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 19,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 20,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 21,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "typeId": 1,
+      "subTypeId": 12,
+      "type": "개발",
+      "subType": "프론트엔드",
+      "videoList": [
+        {
+          "chapter": 1,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 2,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 3,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 4,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 5,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 6,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 7,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 8,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 9,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 10,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 11,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 12,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 13,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 14,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 15,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 16,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 17,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 18,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 19,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 20,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 21,
+          "title": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "typeId": 1,
+      "subTypeId": 13,
+      "type": "개발",
+      "subType": "백엔드",
+      "videoList": [
+        {
+          "chapter": 1,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 2,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 3,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 4,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 5,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 6,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 7,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 8,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 9,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 10,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 11,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 12,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 13,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 14,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 15,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 16,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 17,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 18,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 19,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 20,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 21,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "typeId": 1,
+      "subTypeId": 13,
+      "type": "개발",
+      "subType": "백엔드",
+      "videoList": [
+        {
+          "chapter": 1,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 2,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 3,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 4,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 5,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 6,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 7,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 8,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 9,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 10,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 11,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 12,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 13,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 14,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 15,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 16,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 17,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 18,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 19,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 20,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 21,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "typeId": 1,
+      "subTypeId": 13,
+      "type": "개발",
+      "subType": "백엔드",
+      "videoList": [
+        {
+          "chapter": 1,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 2,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 3,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 4,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 5,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 6,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 7,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 8,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 9,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 10,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 11,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 12,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 13,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 14,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 15,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 16,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 17,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 18,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 19,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 20,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 21,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "typeId": 1,
+      "subTypeId": 13,
+      "type": "개발",
+      "subType": "백엔드",
+      "videoList": [
+        {
+          "chapter": 1,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 2,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 3,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 4,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 5,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 6,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 7,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 8,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 9,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 10,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 11,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 12,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 13,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 14,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 15,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 16,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 17,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 18,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 19,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 20,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 21,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "typeId": 2,
+      "subTypeId": 15,
+      "type": "데이터",
+      "subType": "데이터분석",
+      "videoList": [
+        {
+          "chapter": 1,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 2,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 3,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 4,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 5,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 6,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 7,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 8,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 9,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 10,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 11,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 12,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 13,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 14,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 15,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 16,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 17,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 18,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 19,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 20,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 21,
+          "title": "데이터 분석 방법",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "typeId": 2,
+      "subTypeId": 15,
+      "type": "데이터",
+      "subType": "데이터분석",
+      "videoList": [
+        {
+          "chapter": 1,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 2,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 3,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 4,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 5,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 6,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 7,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 8,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 9,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 10,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 11,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 12,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 13,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 14,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 15,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 16,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 17,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 18,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 19,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 20,
+          "title": "효율적인 데이터 분석 처리",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 21,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "typeId": 2,
+      "subTypeId": 14,
+      "type": "데이터",
+      "subType": "데이터 사이언스",
+      "videoList": [
+        {
+          "chapter": 1,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 2,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 3,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 4,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 5,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 6,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 7,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 8,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 9,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 10,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 11,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 12,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 13,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 14,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 15,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 16,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 17,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 18,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 19,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 20,
+          "title": "데이터 사이언스 방법론",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        },
+        {
+          "chapter": 21,
+          "title": "it over 2000 years old. Richard McClintock",
+          "playTime": "0:07",
+          "url": "https://github.com/Roen77/Roen77.github.io/assets/65719512/40346718-3047-4ff9-8154-723e75ff830b"
+        }
+      ]
+    }
+  ]
+}
